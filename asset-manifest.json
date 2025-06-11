@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lyndsay-cust-app/static/css/main.1c9b3e01.css",
+    "main.js": "/lyndsay-cust-app/static/js/main.7843a02a.js",
+    "index.html": "/lyndsay-cust-app/index.html",
+    "main.1c9b3e01.css.map": "/lyndsay-cust-app/static/css/main.1c9b3e01.css.map",
+    "main.7843a02a.js.map": "/lyndsay-cust-app/static/js/main.7843a02a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9b3e01.css",
+    "static/js/main.7843a02a.js"
+  ]
+}
