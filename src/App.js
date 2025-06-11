@@ -29,6 +29,7 @@ export function App(params) {
   let onCancelClick = function () {
     log("in onCancelClick()");
     setFormObject(blankCustomer);
+    console.log("lyndsay")
     }
 
   let onDeleteClick = function () {
